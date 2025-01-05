@@ -1,0 +1,20 @@
+{
+    "name": "chai-backend",
+    "version": "1.0.0",
+    "description": "a project for backend js",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "chai-backend"
+    },
+    "keywords": [
+      "javascript",
+      "node",
+      "js"
+    ],
+    "author": "mohd Talib",
+    "license": "ISC"
+  }
